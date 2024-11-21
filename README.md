@@ -12,3 +12,9 @@ Videos from streaming platforms are downloaded in chunks and fluctuations in net
 *What is the motivation for the problem? What is the exact specification of the problem?* 
 
 The motivation for this problem stems from the increasing demand for high-quality video streaming without interruptions. Popular streaming platforms rely on dynamic adaptation of video quality to match network conditions and avoid buffering. The problem involves the use of machine learning to predict the download time of video chunks based on the data provided from previous video chunks. 
+
+## INSTRUCTIONS
+
+### Installation:
+
+### Reproducing Results:
