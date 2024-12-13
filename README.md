@@ -11,5 +11,8 @@ Videos from streaming platforms are downloaded in chunks and fluctuations in net
 ## INSTRUCTIONS
 
 ### Installation:
+1. Git clone our team's project repo. Run this command in your terminal: git clone https://github.com/psabherwal/cs190n-group8.git
+2. Once you have cloned our team's project repo, cd into the project folder. Use the files located in our project folder to continue data collection (optional) and run our model.
+3. These files are ready to modify or rerun for reproducing results.
 
 ### Reproducing Results:
